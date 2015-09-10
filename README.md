@@ -1,2 +1,2 @@
 # feveraer.github.io
-Persoonlijke website.
+Personal website.
